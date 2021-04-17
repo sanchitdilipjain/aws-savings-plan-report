@@ -14,7 +14,7 @@
 
   - Savings Plans utilization presents the percentage of the Savings Plans commitment that we are leveraging across the compute consumption.
 
-  - We can access it from <a href="https://console.aws.amazon.com/cost-management/home?region=us-east-1#/savings-plans/utilization">AWS Cost Management</a> Cost Explorer > Savings Plans > Utilization report
+  - We can access it from <a href="https://console.aws.amazon.com/cost-management/home?region=us-east-1#/savings-plans/coverage">AWS Cost Management</a> Cost Explorer > Savings Plans > Utilization report
 
     <img src="images/image1.png" class="inline"/>
 
