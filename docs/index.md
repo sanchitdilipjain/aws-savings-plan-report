@@ -27,6 +27,7 @@
   
     <img src="images/image2.png" class="inline"/>
 
+    **Note:** The column “Spend covered by Savings Plan” depicts the On-demand equivalent and the column “On-demand spend” depicts the On-demand spent not covered by Savings Plan. 
 
 **#3: Monthly billing**
 
