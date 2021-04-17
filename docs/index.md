@@ -8,6 +8,8 @@
 
 - We can sign up for Savings Plans for a 1- or 3-year term and simply control the plans by taking the merits of suggestions, performance reporting, and budget alerts in the AWS Cost Explorer.
 
+  <img src="images/saving.png" class="inline"/>
+  
 - Once we have subscribed to Savings Plans below is a quick reference guide to exploring the Savings Plans reports.
 
   **#1: Leveraging the utilization report**
